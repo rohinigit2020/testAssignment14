@@ -1,0 +1,18 @@
+{
+  "name": "assignment14",
+  "version": "1.0.0",
+  "description": "last assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohini",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.5.0",
+    "cypress-cucumber-preprocessor": "^4.0.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}

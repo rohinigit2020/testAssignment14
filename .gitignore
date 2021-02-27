@@ -1,0 +1,4 @@
+node_modules
+cypress/videos
+.vscode
+cypress/screenshots/saucedemologin/saucedemo/loginErrors.spec.js
